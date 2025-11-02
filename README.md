@@ -9,7 +9,7 @@ From mythological adventures to glowing platformers, I focus on creating respons
 
 ## 🌟 Featured Projects
 
-### 🔱 [Mahabharata-Inspired Terraria Game](https://github.com/Soumaya-Negi/Mahabharata-Terraria)
+### 🔱 [Mahabharata-Inspired Terraria Game](https://github.com/Soumaya-Negi/Mahabharat-game)
 A 2D sandbox inspired by *Terraria* and Indian mythology.  
 Play as the Pandavas — each hero has unique abilities, weapons, and interactions with the world.  
 Built with a focus on modular abilities, lighting, and combat design.
