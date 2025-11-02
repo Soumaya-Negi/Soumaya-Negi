@@ -9,12 +9,12 @@ From mythological adventures to glowing platformers, I focus on creating respons
 
 ## 🌟 Featured Projects
 
-### 🔱 [Mahabharata-Inspired Terraria Game](https://github.com/yourusername/Mahabharata-Terraria)
+### 🔱 [Mahabharata-Inspired Terraria Game](https://github.com/Soumaya-Negi/Mahabharata-Terraria)
 A 2D sandbox inspired by *Terraria* and Indian mythology.  
 Play as the Pandavas — each hero has unique abilities, weapons, and interactions with the world.  
 Built with a focus on modular abilities, lighting, and combat design.
 
-### 💡 [Light It Up](https://github.com/yourusername/LightItUp)
+### 💡 [Light It Up](https://github.com/Soumaya-Negi/LightItUp)
 A minimalist glowing platformer about timing and precision.  
 Every jump lights up the world — designed for smooth controls and a satisfying game feel.
 
