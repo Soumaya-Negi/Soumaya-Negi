@@ -30,7 +30,7 @@ Every jump lights up the world — designed for smooth controls and a satisfying
 
 ##  Connect
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🎮 [Itch.io](https://yourusername.itch.io)  
+- 🎮 [Itch.io](https://soumaya-negi.itch.io/)  
 - ✉️ Email:soumayanegi612@gmail.com
 
 ---
