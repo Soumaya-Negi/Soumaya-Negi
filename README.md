@@ -2,33 +2,31 @@
 
 Computer Science graduate interested in full stack web development.
 
-## Projects
+## Featured Projects
 
-### QuickSketch Multiplayer
+### [QuickSketch Multiplayer](https://github.com/Soumaya-Negi/quick-sketch)
 
 Multiplayer drawing game inspired by Skribbl.
 
 **Tech:** React, Node.js, Express.js
 
-* Room creation and joining
-* Client-server synchronization
-* Multiplayer game state management
+- Room creation and joining
+- Client-server synchronization
+- Multiplayer game state management
 
-### Notes App
+### [Notes App](https://github.com/Soumaya-Negi/notes-app)
 
 **Tech:** React, JavaScript, CSS Modules
 
-* Create, edit, and delete notes
-* Category-based organization
-* Responsive interface
+- Create, edit, and delete notes
+- Category-based organization
 
-### Mahabharata Game
+### [Mahabharata Game](https://github.com/Soumaya-Negi/Mahabharat-Game)
 
 **Tech:** Unity, C#
 
-* Character-based combat system
-* Enemy AI and interactions
-* Inspired by Indian mythology
+- Character-based combat system
+- Enemy AI and interactions
 
 ## Skills
 
@@ -38,6 +36,4 @@ Multiplayer drawing game inspired by Skribbl.
 
 **Tools:** Git, GitHub, VS Code, Postman
 
-## Contact
-
-GitHub: github.com/Soumaya-Negi
+**Other:** Unity, C#
